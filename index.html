@@ -5,11 +5,11 @@
 <body style='margin : 0px; overflow: hidden;'>
 <a-scene arjs="trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 3x3;">
     <a-assets>
-        <img id="img1" src="../ar/assets/teacher-floyd.png">
-        <img id="img2" src="../ar/assets/hedgehog-facts.png">
-        <img id="img3" src="../ar/assets/narwhal.png">
-        <img id="img4" src="../ar/assets/earth.jpg">
-        <img id="imghiro" src="../ar/assets/earth.jpg">
+        <img id="img1" src="../ar/assets/elephant.png">
+        <img id="img2" src="../ar/assets/penguin.png">
+        <img id="img3" src="../ar/assets/narwhal-fact.png">
+        <img id="img4" src="../ar/assets/hedgehog-fact.png.jpg">
+        <img id="floyd" src="../ar/assets/teacher-floyd.png">
     </a-assets>
     <a-marker type="barcode" value="1">
         <a-image src="#img1" scale = "2 2 0" rotation = "-90 0 0" transparent="true" position="0 .5 0"></a-image>
@@ -24,7 +24,7 @@
         <a-image src="#img4" scale = "2 2 0" rotation = "-90 0 0" transparent="true" position="0 .5 0"></a-image>
     </a-marker>
     <a-marker preset="hiro">
-        <a-image src="#imghiro" scale = "2 2 0" rotation = "-90 0 0" transparent="true" position="0 .5 0"></a-image>
+        <a-image src="#floyd" scale = "2 2 0" rotation = "-90 0 0" transparent="true" position="0 .5 0"></a-image>
     </a-marker>
     <a-entity camera></a-entity>
 </a-scene>
