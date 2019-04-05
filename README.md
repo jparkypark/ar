@@ -22,4 +22,4 @@ _[Download Marker](https://github.com/artoolkit/artoolkit5/blob/master/doc/patte
 _[Download Marker](https://github.com/artoolkit/artoolkit5/blob/master/doc/patterns/Matrix%20code%203x3%20(72dpi)/4.png)_
 
 ### Floyd
-_[Download Marker](https://github.com/artoolkit/artoolkit5/blob/master/doc/patterns/Hiro%20pattern.pdf)_
+_[Download Marker](https://github.com/artoolkit/artoolkit5/blob/master/doc/patterns/Matrix%20code%203x3%20(72dpi)/5.png)_
